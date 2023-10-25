@@ -1,2 +1,6 @@
 1 2 3 4 5
+<<<<<<< HEAD
 testing update from local laptop
+=======
+a b c d e
+>>>>>>> 4d27cd1c08396d69c9e6b070f9071b3ee6c5497b
