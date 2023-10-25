@@ -1,0 +1,12 @@
+What is Git?
+-	Git is a version control system for tracking changes in computer files. It is used for coordinating work among several people on a project and tracking progress over time.
+-	It is used for Source Code Management in software development.
+-	Git favors both programmer and non-technical users by keeping track of their project files.
+-	It allows multiple users to work together
+-	Large projects can be handled efficiently
+
+What if GITHub?
+-	Github is a Git repository hosting service, which provides a web-based graphical interface
+-	GitHub helps every team member to work together on the project from anywhere and makes it easy for them to collaborate
+
+add here
